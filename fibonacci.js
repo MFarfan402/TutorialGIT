@@ -1,5 +1,6 @@
 
 // Para efectos de prueba se usará una función en JavaScript que calcula la serie fibonacci hasta la posición indicada
+// a
 
 function fibonacci(number)
 {
